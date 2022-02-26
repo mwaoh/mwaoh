@@ -15,7 +15,6 @@ My Name is Joseph Mwaura. A Data Analyst & Data Scientist.
 <a href="http://linkedin.com/in/mwaurajoseph" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="http://instagram.com/mwaura__m" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="https://mwaoh.github.io/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-
 <a href="https://dev.to/mwaura__m" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
 </p>
 
