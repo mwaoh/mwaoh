@@ -22,6 +22,9 @@ My Name is Joseph Mwaura. A Data Analyst & Data Scientist.
 </p>
 
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mwaoh&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
@@ -37,6 +40,5 @@ My Name is Joseph Mwaura. A Data Analyst & Data Scientist.
 <br>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mwaoh&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
     
