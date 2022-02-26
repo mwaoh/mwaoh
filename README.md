@@ -21,6 +21,22 @@ My Name is Joseph Mwaura. A Data Analyst & Data Scientist.
 <a href="https://dev.to/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
 </p>
 
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/mwaoh">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaoh&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/mwaoh">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mwaoh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
+<br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mwaoh&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
     
