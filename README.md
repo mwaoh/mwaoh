@@ -21,4 +21,6 @@ My Name is Joseph Mwaura. A Data Analyst & Data Scientist.
 <a href="https://dev.to/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mwaoh&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
     
