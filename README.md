@@ -1,5 +1,5 @@
 ### Hi there 👋
-My Name is Joseph Mwaura. A Data Analyst & Data Scientist.
+My Name is Joseph Mwaura. A Software Developer & Data Scientist.
   
  Languages: Python, SQL, R.
  
