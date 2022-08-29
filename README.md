@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Joseph Mwaura.Android Developer & Data Scientist.
+Android Developer & Data Scientist.
   
  Languages: Java(android), Python, SQL, R.
  
