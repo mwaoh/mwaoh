@@ -1,5 +1,5 @@
 ### Hi there 👋
-Android Developer & Data Scientist.
+I am an Android Developer & Data Scientist.
   
  Languages: Java(android), Python, SQL, R.
  
