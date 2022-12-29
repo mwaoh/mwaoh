@@ -6,9 +6,10 @@ I am an Android Developer & Data Scientist.
  
  - 👯 My background is in Economics & Statistics with a focus on data science. 
  - Knowledgeable with exploring insights from data, data reporting and analysis and applying software engineering principles.
- -Machine Learning Techiques:Supervised Learning, unSupervised Learning, Reinforcement learning, Gradient Descent, Feature engineering & Deep learning
+ -  👯 Machine Learning Techiques
+ -  Supervised Learning, unSupervised Learning, Reinforcement learning, Gradient Descent, Feature engineering & Deep learning
  -
- -Android development
+ -  👯 Android development
  -Android Studio, Android Architecture with MVP or MVVM, Android Jetpack Compose, Android Services, Unit Testing with JUnit, Android Support Library & Using Retrofit as a REST client
 - 👯 I’m looking for opportunity to practices and grow my career through working on real world challenges and add value to products.
 
