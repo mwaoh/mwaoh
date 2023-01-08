@@ -6,6 +6,7 @@ I am an Android Developer & Data Scientist.
  
  - 👯 My background is in Economics & Statistics with a focus on data science. 
  - Knowledgeable with exploring insights from data, data reporting and analysis and applying software engineering principles.
+ - Skilled in predictive modeling, data processing, visualization, data mining algorithms, and scripting languages such as R and Python to deliver insights and implement action-oriented solutions to complex business problems
  - 
  -  👯 Machine Learning Techniques
  -  Supervised Learning, unSupervised Learning, Reinforcement learning, Gradient Descent, Feature engineering & Deep learning
