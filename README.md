@@ -36,7 +36,7 @@ I am an Android Developer & Data Scientist.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-mwaoh)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/mwaoh">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwaoh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwaoh&layout=compact&theme=vision-friendly-dark)](https://github.com/mwaoh/github-readme-stats)
   
   
   <!--
