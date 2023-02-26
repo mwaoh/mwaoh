@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am an Android Developer & Data Scientist.
   
- Languages: Java(android), Python, SQL, R.
+ Languages: Java, Kotlin, Python, SQL, R.
  
  
  - 👯 My background is in Economics & Statistics with a focus on data science. 
