@@ -4,11 +4,11 @@ I am a Data Scientist, AI Engineer.
  Languages: Java, Kotlin, Python, SQL, R.
  
  
- - 👯 My background is in Economics & Statistics with a focus on data science. 
+ - 🎧 My background is in Economics & Statistics with a focus on data science. 
  - Knowledgeable with exploring insights from data, data reporting and analysis and applying software engineering principles.
  - Skilled in predictive modeling, data processing, visualization, data mining algorithms, and scripting languages such as R and Python to deliver insights and implement action-oriented solutions to complex business problems
  - 
- -  👯 Machine Learning Techniques
+ - Machine Learning Techniques
  -  Supervised Learning, unSupervised Learning, Reinforcement learning, Gradient Descent, Feature engineering & Deep learning
  -
 - I’m looking for opportunity to practices and grow my career through working on real world challenges and add value to products.
