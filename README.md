@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an Android Developer & Data Scientist.
+I am a Data Scientist, AI Engineer.
   
  Languages: Java, Kotlin, Python, SQL, R.
  
@@ -11,10 +11,7 @@ I am an Android Developer & Data Scientist.
  -  👯 Machine Learning Techniques
  -  Supervised Learning, unSupervised Learning, Reinforcement learning, Gradient Descent, Feature engineering & Deep learning
  -
- -  👯 Android development
- - Android Studio, Android Architecture with MVP or MVVM, Android Jetpack Compose, Android Services, Unit Testing with JUnit, Android Support Library & Using Retrofit as a REST client
- - 
-- 👯 I’m looking for opportunity to practices and grow my career through working on real world challenges and add value to products.
+- I’m looking for opportunity to practices and grow my career through working on real world challenges and add value to products.
 
   ### Find me all around the web:
 
